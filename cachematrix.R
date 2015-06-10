@@ -1,5 +1,5 @@
 ## Functions allow save results inverse matrices and load them from cache, instead 
-## of recomputing them again each time
+## of recomputing them again each time.
 
 ## The function is the framework to make a cachematrix. The input is x: given as
 ## a square, invertable matrix. The function will return a list containing muli-
